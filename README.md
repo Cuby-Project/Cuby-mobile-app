@@ -2,22 +2,13 @@
 
 # Cuby mobile app
 ---
-
-
-<img src="https://img.shields.io/github/stars/quentinformatique/Cuby-mobile-app.svg">
-<img src="https://img.shields.io/github/forks/quentinformatique/Cuby-mobile-app.svg">
-<img src="https://img.shields.io/github/issues/quentinformatique/Cuby-mobile-app.svg">
-<img src="https://img.shields.io/github/last-commit/quentinformatique/Cuby-mobile-app.svg">
-
+-<a href="https://github.com/Cuby-Project/Cuby/issues/new/choose">Report a bug</a>--<a href="https://github.com/Cuby-Project/Cuby/issues/new/choose">Request a feature</a>-
 </div>
 
 **Cuby** a ElectronJS app for *Rubik's Cubes*, it contains everything you need to solve, time, learn and explore Rubik's Cubes.  I created this app using electronJS, it's still in development for now but can already use it, read the installation tutorial if you want to give it a try.
 
 You are looking a the mobile part of Cuby, this only the solving capture tool for the app, and in the future a fully fonctionnal mobile version of **Cuby**, you can find the main app at : ![Cuby repo](https://github.com/quentinformatique/Cuby)
 
-<div align="center">
--<a href="https://github.com/quentinformatique/Cuby/issues/new/choose">Report a bug</a>--<a href="https://github.com/quentinformatique/Cuby/issues/new/choose">Request a feature</a>-
-</div>
 
 ## Contributing
 
