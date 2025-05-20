@@ -92,45 +92,11 @@ Contributions are what make the open source community such an amazing place to l
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 🔮 Roadmap
-
-- Enhanced mobile UI/UX
-- Offline functionality
-- Push notifications
-- Social features
-- Performance optimizations
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-*quentinformatique*
 
 ## 📞 Support
 
 - [Report a bug](https://github.com/Cuby-Project/Cuby-mobile-app/issues/new/choose)
 - [Request a feature](https://github.com/Cuby-Project/Cuby-mobile-app/issues/new/choose)
-
-You are looking a the mobile part of Cuby, this only the solving capture tool for the app, and in the future a fully fonctionnal mobile version of **Cuby**, you can find the main app at : ![Cuby repo](https://github.com/Cuby-project)
-
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
-
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
